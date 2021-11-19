@@ -13,4 +13,4 @@ App.init({
 
 module.exports = {
     App
-}
+} 
